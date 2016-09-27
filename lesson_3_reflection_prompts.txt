@@ -15,6 +15,9 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
    I can't imagine working in teams without github ,github makes project teams to work with less burden
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits
+ does each approach have?
+ - To enable easy testing of progress without creating issues with the master branch. 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
