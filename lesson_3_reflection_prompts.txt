@@ -1,17 +1,20 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
-
   while working on projects, i would like to use a remote repository rather than keeping all my work
   local bcoz it helps other persons to make changes to the project unless they  are valid team members
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
   manaully sync probably does helpful when a lot people contribute in the same project, and we need
   to understand the changes that other fellows have been made before apply all the changes
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
--diff's are much faster, you can work off line.
-- you can check the status of the commit before pushing change
+  -diff's are much faster, you can work off line.
+  - you can check the status of the commit before pushing change
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   I can't imagine working in teams without github ,github makes project teams to work with less burden
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
